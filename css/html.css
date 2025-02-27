@@ -1,0 +1,36 @@
+@charset "UTF-8";
+.html {
+  background: url("../images/in/banner_about.jpg") top center no-repeat;
+  background-size: contain;
+}
+.html .blockTitle {
+  text-align: center;
+  font-weight: 800;
+  font-size: 3.5rem;
+  margin-bottom: 40px;
+}
+@media screen and (max-width: 1000px) {
+  .html .blockTitle {
+    font-size: 2.5rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .html .blockTitle {
+    font-size: 1.875rem;
+  }
+}
+.html .editor ul.style li {
+  position: relative;
+  padding: 5px 0 5px 20px;
+}
+.html .editor ul.style li::before {
+  content: "◆";
+  color: #F8B92A;
+  position: absolute;
+  left: 0;
+}
+
+.editor span.title {
+  color: #009EE0;
+  font-weight: 700;
+}/*# sourceMappingURL=html.css.map */
