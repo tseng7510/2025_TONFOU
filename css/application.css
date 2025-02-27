@@ -30,6 +30,14 @@
     order: 2;
   }
 }
+.application .listBox .item .pic {
+  position: relative;
+}
+.application .listBox .item .pic img {
+  border-radius: 50%;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
 @media screen and (max-width: 767px) {
   .application .listBox .item {
     flex-direction: column;
@@ -169,6 +177,11 @@
   padding: 15px;
   max-width: 630px;
   filter: drop-shadow(0px 0px 15px rgba(0, 158, 224, 0.5));
+}
+.applicationDetail .topBox .pic img {
+  border-radius: 50%;
+  aspect-ratio: 1;
+  overflow: hidden;
 }
 .applicationDetail .topBox .info {
   max-width: 720px;

@@ -249,7 +249,7 @@
   }
 }
 .productsDetail .infoBox .titleBox .title {
-  font-size: var(--clamp100);
+  font-size: var(--clamp80);
   line-height: 1.2;
   position: relative;
   margin-bottom: 10px;

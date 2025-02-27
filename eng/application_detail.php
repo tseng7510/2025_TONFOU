@@ -58,7 +58,7 @@
 
                       With advanced designs such as through-hole configurations for handling long workpieces and mechanisms that provide exceptional clamping force, our products are tailored to meet the diverse demands of CNC lathe operations. Whether for heavy-duty cutting or high-precision machining, these solutions enhance productivity and machining quality, making them indispensable for efficient lathe operations.</div>
                   </div>
-                  <div class="pic"><img src="../images/in/ap4.png" alt=""></div>
+                  <div class="pic"><img src="../images/in/ap1.jpg" alt=""></div>
                 </div>
 
                 <div class="bottomBox wow fadeInRight" data-wow-delay="0.2s">

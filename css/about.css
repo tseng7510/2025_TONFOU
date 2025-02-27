@@ -1,9 +1,9 @@
 .aboutPage {
-  background: url("../images/in/banner_about.jpg") top center no-repeat;
+  background: url('../images/in/banner_about.jpg') top center no-repeat;
   background-size: contain;
 }
 .aboutPage .blockTitle {
-  color: #042D59;
+  color: #042d59;
   font-size: var(--clamp54);
   font-weight: 700;
   line-height: 1.2;
@@ -62,11 +62,11 @@
   }
 }
 .aboutPage .block2::before {
-  content: "";
+  content: '';
   position: absolute;
   inset: 0 calc(var(--contentPadding) * -1);
   display: block;
-  background: #042D59;
+  background: #042d59;
   z-index: -1;
 }
 .aboutPage .block2 .infoBox {
@@ -117,7 +117,7 @@
 .aboutPage .block4 {
   display: flex;
   flex-direction: column;
-  border-top: #DDDDDD 1px solid;
+  border-top: #dddddd 1px solid;
   position: relative;
   gap: 70px;
 }
@@ -127,11 +127,11 @@
   }
 }
 .aboutPage .block4::before {
-  content: "";
+  content: '';
   position: absolute;
   inset: 0 calc(var(--contentPadding) * -1);
   display: block;
-  background: linear-gradient(to top, #CCCFD7 60%, rgba(204, 207, 215, 0) 90%);
+  background: linear-gradient(to top, #cccfd7 60%, rgba(204, 207, 215, 0) 90%);
   z-index: -1;
 }
 .aboutPage .block4 .blockTitle {
@@ -163,12 +163,12 @@
   text-align: center;
 }
 .aboutPage .block4 .item .pic::before {
-  content: "";
+  content: '';
   position: absolute;
   aspect-ratio: 1;
   border-radius: 50%;
   width: 70%;
-  background: #FFF;
+  background: #fff;
   filter: blur(20px);
   top: 50%;
   left: 50%;
@@ -185,14 +185,14 @@
   text-align: center;
   font-weight: 700;
   padding: 5px;
-  color: #042D59;
-  background: #F8B92A;
+  color: #042d59;
+  background: #f8b92a;
   border-radius: 20px;
   font-size: 16px;
 }
 
 .historyPage {
-  background: url("../images/in/banner_history.jpg") top center no-repeat;
+  background: url('../images/in/banner_history.jpg') top center no-repeat;
   background-size: contain;
 }
 .historyPage .contentBox .container {
@@ -201,7 +201,7 @@
   flex-direction: column;
 }
 .historyPage .contentBox .container::before {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 16px;
   height: 1px;
@@ -253,7 +253,7 @@
   }
 }
 .historyPage .contentBox .item .title {
-  color: #042D59;
+  color: #042d59;
   font-size: var(--clamp54);
   font-weight: 700;
   line-height: 1.2;
@@ -300,11 +300,11 @@
   }
 }
 .historyPage .swiperArrow::after {
-  content: "";
+  content: '';
   min-width: 82px;
   min-height: 82px;
   display: block;
-  background: url("../images/icon/icon_arrow_swiper.svg") center no-repeat;
+  background: url('../images/icon/icon_arrow_swiper.svg') center no-repeat;
   background-size: contain;
 }
 @media screen and (max-width: 1400px) {
@@ -329,7 +329,7 @@
   transform: rotate(180deg);
 }
 .historyPage .swiperArrow:hover::after {
-  background: url("../images/icon/icon_arrow_swiper_2.svg") center no-repeat;
+  background: url('../images/icon/icon_arrow_swiper_2.svg') center no-repeat;
 }
 .historyPage .yearBox {
   width: 38%;
@@ -340,7 +340,7 @@
     width: 100%;
   }
   .historyPage .yearBox::before {
-    content: "";
+    content: '';
     position: absolute;
     bottom: 16px;
     height: 1px;
@@ -368,17 +368,17 @@
   text-align: left;
   position: relative;
   padding-top: 30px;
-  height: 100px;
+  height: 150px;
 }
 .historyPage .yearBox .swiper-slide span::before {
-  content: "";
+  content: '';
   width: 13px;
   height: 13px;
   display: block;
   border: #545454 1.5px solid;
   border-radius: 50%;
   flex-shrink: 0;
-  background: #F6F6F6;
+  background: #f6f6f6;
   position: absolute;
   left: 50%;
   top: 0;
@@ -388,13 +388,13 @@
   font-size: var(--clamp24);
 }
 .historyPage .yearBox .swiper-slide.swiper-slide-thumb-active span {
-  color: #042D59;
+  color: #042d59;
 }
 .historyPage .yearBox .swiper-slide.swiper-slide-thumb-active span::before {
   width: 32px;
   height: 32px;
-  background: #F8B92A;
+  background: #f8b92a;
   border: none;
-  border: 10px solid #F6F6F6;
+  border: 10px solid #f6f6f6;
   box-shadow: 0 0 0 1px #545454;
-}/*# sourceMappingURL=about.css.map */
+} /*# sourceMappingURL=about.css.map */
