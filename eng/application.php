@@ -49,7 +49,7 @@
                 <div class="listBox">
 
                   <div class="item wow fadeInRight" data-wow-delay="0.2s">
-                    <div class="pic"><img src="../images/in/ap1.png" alt=""></div>
+                    <div class="pic"><img src="../images/in/ap1.jpg" alt=""></div>
                     <div class="info">
                       <h2 class="title">CNC Lathe</h2>
                       <div class="description">In CNC lathe applications, the clamping system plays a vital role in ensuring machining stability and precision. High-quality clamping solutions are essential for securely holding workpieces, maintaining accuracy, and preventing deformation during the machining process....</div>
@@ -58,7 +58,7 @@
                   </div>
 
                   <div class="item wow fadeInRight" data-wow-delay="0.2s">
-                    <div class="pic"><img src="../images/in/ap2.png" alt=""></div>
+                    <div class="pic"><img src="../images/in/ap2.jpg" alt=""></div>
                     <div class="info">
                       <h2 class="title">Swiss Type Lathe</h2>
                       <div class="description">In CNC lathe applications, the clamping system plays a vital role in ensuring machining stability and precision. High-quality clamping solutions are essential for securely holding workpieces, maintaining accuracy, and preventing deformation during the machining process....</div>
@@ -67,7 +67,7 @@
                   </div>
 
                   <div class="item wow fadeInRight" data-wow-delay="0.2s">
-                    <div class="pic"><img src="../images/in/ap3.png" alt=""></div>
+                    <div class="pic"><img src="../images/in/ap3.jpg" alt=""></div>
                     <div class="info">
                       <h2 class="title">Fixed Headstock Lathe</h2>
                       <div class="description">In CNC lathe applications, the clamping system plays a vital role in ensuring machining stability and precision. High-quality clamping solutions are essential for securely holding workpieces, maintaining accuracy, and preventing deformation during the machining process....</div>
