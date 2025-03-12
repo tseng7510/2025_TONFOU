@@ -1997,6 +1997,9 @@ button:focus {
   display: inline;
   transition: all 0.3s ease;
 }
+.breadcrumbBox .breadcrumb li a:hover {
+  color: #009ee0;
+}
 .breadcrumbBox .breadcrumb li::after {
   content: '>';
   margin: 0px 10px;

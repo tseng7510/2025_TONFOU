@@ -45,8 +45,14 @@
                       <meta itemprop="position" content="2">
                     </li>
                     <li itemprop="itemListElement" itemscope="" itemtype="//schema.org/ListItem">
-                      <span itemprop="name">Company News</span>
+                      <a href="news.php" itemprop="item">
+                        <span itemprop="name">Company News</span>
+                      </a>
                       <meta itemprop="position" content="3">
+                    </li>
+                    <li itemprop="itemListElement" itemscope="" itemtype="//schema.org/ListItem">
+                      <span itemprop="name">A More Compact Collet Chuck (Workholding) to Reduce Tool Interference</span>
+                      <meta itemprop="position" content="4">
                     </li>
                   </ul>
                 </div>
