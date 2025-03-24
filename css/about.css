@@ -361,7 +361,8 @@
 }
 .historyPage .yearBox .swiper-slide span {
   display: block;
-  writing-mode: vertical-lr;
+  writing-mode: sideways-rl;
+  line-height: 1;
   transform: rotate(180deg);
   color: #535353;
   font-weight: 700;
