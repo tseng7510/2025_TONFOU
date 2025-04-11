@@ -142,6 +142,7 @@
     max-width: none;
     flex-direction: row;
     justify-content: space-between;
+    align-items: flex-start;
     gap: 60px;
   }
 }
@@ -190,7 +191,8 @@
   color: #042d59;
   font-size: var(--clamp85);
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  line-height: 1.2;
 }
 .applicationDetail .topBox .description {
   font-size: var(--clamp18);
