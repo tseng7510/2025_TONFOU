@@ -2213,6 +2213,7 @@ button:focus {
   font-weight: 500;
   margin: 0 0 10px 0;
   opacity: 1;
+  line-height: 1.75;
 }
 .footerBox .menuBox .menu li {
   padding: 3px 0;
